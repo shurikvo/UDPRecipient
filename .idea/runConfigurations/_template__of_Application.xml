@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application">
+    <module name="UDPRecipient" />
+    <selectedOptions>
+      <option name="environmentVariables" visible="false" />
+    </selectedOptions>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
